@@ -8,3 +8,7 @@ Yes, well rw1 (rewrite 1)
 Yes.
 # how do I install?
 Ahh, remember pwahub 0.9, extreamly dificult to install, now its a .exe file (and a linux executable)
+<br>
+If your a linux user, you should know how to run the installer, so theres no guide for linux (note for arm64, in the future there will be a way to install it on raspberry pi, keep a look out).
+<br>
+Continue on to windows installation [here](./install_windows.md)
