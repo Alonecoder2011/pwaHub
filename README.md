@@ -1,2 +1,2 @@
-![PwaHub logo]("mdassets/pwa-hub.png", "the new hub")
+![PwaHub logo]("mdassets/pwa-hub.png")
 schools gonna kill me💀💀💀💀
