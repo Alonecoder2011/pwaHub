@@ -6,3 +6,5 @@ No, I made a proper executable to host it
 Yes, well rw1 (rewrite 1)
 # Is this 1.0 (not 0.9)
 Yes.
+# how do I install?
+Ahh, remember pwahub 0.9, extreamly dificult to install, now its a .exe file (and a linux executable)
