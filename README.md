@@ -1,5 +1,6 @@
 ![PwaHub logo](mdassets/pwa-hub.png)
 <br>
+# This will nolonger be updated. my school put 192.168.1.* urls on the block list.
 # Is this hard to install
 No, I made a proper executable to host it
 # Is this that proof of concept to bypass monitoring on securly?
